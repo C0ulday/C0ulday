@@ -32,10 +32,11 @@ My toxic trait is starting a new board bring-up while the last one is still on t
 ### 🛠️ Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,TCL/TK,Java,python,matlab,linux,git&theme=dark" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,matlab,linux,git&theme=dark" alt="Skills" />
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Tcl%2FTk-1E3A5F?style=for-the-badge" alt="Tcl/Tk" />
   <img src="https://img.shields.io/badge/VHDL-8A2BE2?style=for-the-badge" alt="VHDL" />
   <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad" />
   <img src="https://img.shields.io/badge/RISC--V-283272?style=for-the-badge&logo=riscv&logoColor=white" alt="RISC-V" />
