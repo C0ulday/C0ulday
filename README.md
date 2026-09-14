@@ -22,13 +22,6 @@ My toxic trait is starting a new board bring-up while the last one is still on t
 
 ♟️ &nbsp;Off the bench: powerlifting, reading, chess.
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=C0ulday&show_icons=true&theme=tokyonight&title_color=8957e5&icon_color=8957e5&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=C0ulday&layout=compact&theme=tokyonight&title_color=8957e5&icon_color=8957e5&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
-</p>
-
 ### 🛠️ Skills
 
 <p align="center">
