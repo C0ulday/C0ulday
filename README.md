@@ -32,7 +32,7 @@ My toxic trait is starting a new board bring-up while the last one is still on t
   <img src="https://img.shields.io/badge/Tcl%2FTk-1E3A5F?style=for-the-badge" alt="Tcl/Tk" />
   <img src="https://img.shields.io/badge/VHDL-8A2BE2?style=for-the-badge" alt="VHDL" />
   <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad" />
-  <img src="https://img.shields.io/badge/RISC--V-283272?style=for-the-badge&logo=riscv&logoColor=white" alt="RISC-V" />
+  <img src="https://img.shields.io/badge/RISC--V-283272?style=for-the-badge&logo=riscv&logoColor=white" alt="MIPS/RISC-V" />
   <img src="https://img.shields.io/badge/FPGA-2ea043?style=for-the-badge" alt="FPGA" />
 </p>
 
