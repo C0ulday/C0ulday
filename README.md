@@ -22,10 +22,14 @@ My toxic trait is starting a new board bring-up while the last one is still on t
 
 ♟️ &nbsp;Off the bench: powerlifting, reading, chess.
 
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=C0ulday&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=C0ulday&theme=github-dark-blue&hide_border=true" alt="GitHub streak" width="48%" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=C0ulday&show_icons=true&theme=tokyonight&title_color=8957e5&icon_color=8957e5&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=C0ulday&layout=compact&theme=tokyonight&title_color=8957e5&icon_color=8957e5&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
+
+### 🛠️ Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,linux,git&theme=dark" alt="Skills" />
@@ -37,3 +41,18 @@ My toxic trait is starting a new board bring-up while the last one is still on t
   <img src="https://img.shields.io/badge/RISC--V-283272?style=for-the-badge&logo=riscv&logoColor=white" alt="RISC-V" />
   <img src="https://img.shields.io/badge/FPGA-2ea043?style=for-the-badge" alt="FPGA" />
 </p>
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=C0ulday&bg_color=00000000&color=8957e5&line=8957e5&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+</p>
+
+### 💭 Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+</p>
+
+---
+<p align="center"><i>⭐️ From <a href="https://github.com/C0ulday">C0ulday</a></i></p>
