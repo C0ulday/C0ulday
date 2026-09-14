@@ -1,69 +1,41 @@
 <p align="center">
   <a href="https://github.com/C0ulday">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=8957e5&fontSize=54&height=90&width=420&text=Oi%20!" alt="Oi !" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=420&text=Oi%20!" alt="Oi !" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=360&height=44&lines=Let's%20tinker%20and%20fly." alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=440&height=44&lines=Let's+tinker+and+fly." alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
 
-Embedded software engineer trying to bring what she likes to life.   
-I mostly like to think, be creative, and learn electronics.  
-My toxic trait is to learn and do multiple things at the same time. Life is short!
+Embedded systems engineer who likes hardware to actually do something.  
+I mostly like reading datasheets, soldering things that shouldn't work yet do, and understanding what's happening underneath the abstraction.  
+My toxic trait is starting a new board bring-up while the last one is still on the bench. Life is short!
 
-🔭 &nbsp;I'm currently working on **Cable interface between the radio of a Savannah S aircraft and a hearing-assistance app**  
-🌱 &nbsp;I'm currently learning **PCB design**
+🔭 &nbsp;I'm currently working on **a quadcopter and its remote control, built from scratch** — KiCad schematics, motor drive electronics, RF link, currently in bench integration and test.
 
-### 🛠️ Tech Stack
+🌱 &nbsp;I'm currently learning **PCB routing** and **RTOS internals beyond the basics**.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
-</p>
+🛠️ &nbsp;Things I've actually built:
+- Synthesised the **Ibex RISC-V soft core onto an FPGA** (Vivado), UART link to host, weights loaded via the core's bootloader, inference latency benchmarked on target vs. simulation
+- A **MIPS CPU emulator from scratch in C** — instruction decoding, register file, memory management
+- **VHDL** digital design (modulo-N chronometer: clock divider, counter, display driver), simulated in xsim before synthesis
+- **Bare-metal + FreeRTOS firmware** on ARM Cortex-M (STM32) — low-level drivers, preemptive scheduling, timing verified on scope + SWD
+- A cable interface between an aircraft radio (Savannah S) and a hearing-assistance app — real-time audio capture and transcription
+- Signal processing lab work: FFT spectral analysis, digital filtering, DTMF decoding
 
-### 📊 GitHub Stats
+✈️ &nbsp;Also: BIA aeronautical certificate, ultralight pilot licence in progress. Aircraft and embedded systems are the same hobby to me, one just happens to fly.
+
+♟️ &nbsp;Off the bench: powerlifting, chess.
+
+📫 &nbsp;Reach me at sita.kagnon@gmail.com
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=C0ulday&show_icons=true&theme=tokyonight&title_color=8957e5&icon_color=8957e5&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=C0ulday&layout=compact&theme=tokyonight&title_color=8957e5&icon_color=8957e5&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=C0ulday&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=C0ulday&theme=github-dark-blue&hide_border=true" alt="GitHub streak" width="48%" />
 </p>
-
-### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=C0ulday&bg_color=00000000&color=8957e5&line=8957e5&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
-</p>
-
-### 💭 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
-</p>
-
----
-<p align="center"><i>⭐️ From <a href="https://github.com/C0ulday">C0ulday</a></i></p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,linux,git&theme=dark" alt="Skills" />
