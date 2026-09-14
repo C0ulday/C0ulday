@@ -5,65 +5,111 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=360&height=44&lines=Let's%20tinker%20and%20fly." alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=520&height=44&lines=Let's%20tinker%20and%20fly.;From%20RTL%20to%20silicon%2C%20one%20bit%20at%20a%20time.;VHDL%2C%20RISC-V%20and%20a%20soldering%20iron.;If%20it%20blinks%2C%20I%20can%20probably%20clock%20it." alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
 
-Embedded software engineer trying to bring what she likes to life.   
+Embedded software engineer trying to bring what she likes to life.  
 I mostly like to think, be creative, and learn electronics.  
 My toxic trait is to learn and do multiple things at the same time. Life is short!
 
-🔭 &nbsp;I'm currently working on **Cable interface between the radio of a Savannah S aircraft and a hearing-assistance app**  
-🌱 &nbsp;I'm currently learning **PCB design**
+I like my code close to the metal — and sometimes *in* the metal: RTL, FPGAs, MCUs, and the occasional PCB that actually works on the first spin (rare).
+
+🔭 &nbsp;I'm currently working on **Cable <!-- TODO: finish this line -->**  
+🌱 &nbsp;I'm currently learning **VHDL, RISC-V ISA & softcore design, and digital design flows**  
+⚡ &nbsp;Fun fact: my happy place is a logic analyzer trace that finally makes sense
+
+---
+
+### 🧠 What I Do
+
+- **Digital design / RTL** — VHDL (and a bit of Verilog), FSMs, pipelines, AXI/Avalon-ish buses, testbenches & simulation
+- **FPGA** — synthesis, place & route, timing closure, on-chip debug (ILA/ChipScope/SignalTap)
+- **RISC-V** — ISA, softcores, custom instructions, bare-metal bring-up
+- **Embedded** — bare-metal & RTOS firmware, drivers, low-power, comms protocols
+- **Electronics** — schematics, PCB design, bring-up, probing, debugging with a scope
+
+---
 
 ### 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
-</p>
+**HDL / Digital Design**
 
-### 📊 GitHub Stats
+![VHDL](https://img.shields.io/badge/VHDL-8A2BE2?style=for-the-badge)
+![Verilog](https://img.shields.io/badge/Verilog-1E90FF?style=for-the-badge)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-0B5FFF?style=for-the-badge)
+![RISC-V](https://img.shields.io/badge/RISC--V-283272?style=for-the-badge&logo=riscv&logoColor=white)
+![FPGA](https://img.shields.io/badge/FPGA-2ea043?style=for-the-badge)
+![ASIC](https://img.shields.io/badge/Digital%20Design-444444?style=for-the-badge)
+
+**FPGA Toolchains**
+
+![Xilinx](https://img.shields.io/badge/Vivado%20%2F%20Vitis-E01F27?style=for-the-badge&logo=xilinx&logoColor=white)
+![Intel](https://img.shields.io/badge/Quartus-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![Gowin](https://img.shields.io/badge/Gowin-FF6A00?style=for-the-badge)
+![Lattice](https://img.shields.io/badge/Lattice-00A0B0?style=for-the-badge)
+![GHDL](https://img.shields.io/badge/GHDL%20%2F%20Verilator-4B4B4B?style=for-the-badge)
+![GTKWave](https://img.shields.io/badge/GTKWave-5C6BC0?style=for-the-badge)
+
+**Embedded / MCU**
+
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![RP2040](https://img.shields.io/badge/RP2040-8B2E3F?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-FF7F00?style=for-the-badge&logo=platformio&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-2ea043?style=for-the-badge)
+![Zephyr](https://img.shields.io/badge/Zephyr-6E4A9E?style=for-the-badge)
+![Bare Metal](https://img.shields.io/badge/Bare--Metal-000000?style=for-the-badge)
+
+**Languages**
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Assembly](https://img.shields.io/badge/ASM-6E4A9E?style=for-the-badge)
+
+**Electronics & Lab**
+
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
+![Altium](https://img.shields.io/badge/Altium-A5915A?style=for-the-badge&logo=altiumdesigner&logoColor=white)
+![LTspice](https://img.shields.io/badge/LTspice-900028?style=for-the-badge)
+![Oscilloscope](https://img.shields.io/badge/Oscilloscope-FFD500?style=for-the-badge)
+![Logic Analyzer](https://img.shields.io/badge/Logic%20Analyzer-00BFFF?style=for-the-badge)
+![Soldering](https://img.shields.io/badge/Soldering%20Iron-FF4500?style=for-the-badge)
+
+**Tooling**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Make](https://img.shields.io/badge/Make-427819?style=for-the-badge&logo=gnu&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+
+---
+
+### 📡 Interests
+
+`RTL & FPGA` · `RISC-V` · `Computer Architecture` · `Digital Signal Processing` · `Embedded Linux` · `Robotics` · `Avionics / Drones` · `PCB Design` · `Retro Computing`
+
+---
+
+### 📊 Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=C0ulday&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=C0ulday&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=C0ulday&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C0ulday&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top languages" />
 </p>
 
-### 📈 Contribution Graph
-
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=C0ulday&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
-</p>
-
-### 💭 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=C0ulday&hide_border=true&theme=transparent" alt="Streak" />
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/C0ulday">C0ulday</a></i></p>
+
+<p align="center">
+  <i>« If it doesn't work, add a capacitor. If it still doesn't work, it's a timing violation. »</i>
+</p>
