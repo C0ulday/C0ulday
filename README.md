@@ -40,11 +40,6 @@ My toxic trait is starting a new board bring-up while the last one is still on t
   
 </p>
 
-### 📈 Contribution Graph
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=C0ulday&bg_color=00000000&color=8957e5&line=8957e5&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
-</p>
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/C0ulday">C0ulday</a></i></p>
