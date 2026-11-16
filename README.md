@@ -11,8 +11,7 @@
 ### 🚀 About Me
 
 Embedded systems engineer who likes hardware to actually do something.  
-I mostly like soldering things (burning myself too) , and understanding what's happening underneath the abstraction.  
-My toxic trait is starting a new board bring-up while the last one is still on the bench. Life is short!
+I mostly like soldering things, and understanding what's happening underneath the abstraction.  
 
 🔭 &nbsp;I'm currently working on **a quadcopter and its remote control** and *testing my interface between the radio of an aircraft and a hearing-assistance app*
 
